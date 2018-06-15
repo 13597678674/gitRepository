@@ -1,0 +1,2 @@
+127.0.0.1 - - [05/Jun/2018:14:40:53 +0800] "PUT /manager/text/deploy?path=%2Fmaven HTTP/1.1" 404 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [05/Jun/2018:14:42:43 +0800] "GET / HTTP/1.1" 404 - http-bio-8080-exec-5 0
